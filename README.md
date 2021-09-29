@@ -1,0 +1,2 @@
+# Resume-Strict
+Html , Css
